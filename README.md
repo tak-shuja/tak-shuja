@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shuja Ahmad</h1>
 <h3 align="center">A passionate software engineer from India.</h3>
 
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 I’m currently learning **Nuxt Js**
 
-- 💬 Ask me about **Python, Kotlin, HTML, Javascript, C++**
+- 💬 Ask me about **Python, Kotlin, HTML, Javascript, C++, Vue js**
 
 - 📫 How to reach me **shujatak@proton.me**
 
